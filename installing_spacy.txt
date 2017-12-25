@@ -1,0 +1,154 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  exit
+    5  sudo apt-get update && sudo apt-get upgrade
+    6  sudo rm /var/lib/apt/lists/lock
+    7  sudo apt-get update && sudo apt-get upgrade
+    8  sudo rm /var/lib/apt/lists/lock
+    9  sudo rm /var/cache/apt/archives/lock
+   10  sudo rm /var/lib/dpkg/lock
+   11  sudo apt-get update && sudo apt-get upgrade
+   12  apt-get update
+   13  apt-get upgrade
+   14  apt-get upgrade -y
+   15  apt-get install synaptic vlc shutter handbrake gimp pidgin gimp-data-extras gimp-gmic gimp-plugin-registry autotrace okular chromium-browser bibtool bibutils bibus texworks auctex aspell-de aspell-es aspell-fr aspell-sv fonts-mathjax fonts-mathjax-extras foiltex libjs-mathjax lyx texmaker texstudio xfig vokoscreen luminance-hdr pitivi banshee smplayer smplayer-themes smplayer-skins autokey-common xournal pdftk nodejs npm openssh-server paraview-dev gif2png pdf2svg links emacs texlive-full epstool pdf2djvu libjs-mathjax fonts-mathjax fonts-mathjax-extras emacs-goodies-el vlc-plugin-sdl vlc-plugin-svg libavogadro-dev pymol -y
+   16  apt-get install synaptic vlc shutter handbrake gimp pidgin gimp-data-extras gimp-gmic gimp-plugin-registry autotrace okular chromium-browser bibtool bibutils bibus texworks auctex aspell-de aspell-es aspell-fr aspell-sv fonts-mathjax fonts-mathjax-extras foiltex libjs-mathjax lyx texmaker texstudio xfig vokoscreen luminance-hdr pitivi banshee smplayer smplayer-themes autokey-common xournal pdftk nodejs npm openssh-server paraview-dev gif2png pdf2svg links emacs texlive-full epstool pdf2djvu libjs-mathjax fonts-mathjax fonts-mathjax-extras emacs-goodies-el vlc-plugin-sdl vlc-plugin-svg libavogadro-dev pymol -y
+   17  ks
+   18  ls
+   19  exit
+   20  apt-get update
+   21  sudo apt-get install build-essential python-dev git
+   22  which python
+   23  pip install -U spacy
+   24  python -m spacy download en
+   25  python
+   26  pip install -U spacy
+   27  which py
+   28  which python
+   29  pip install --upgrade pip
+   30  pip install -U spacy
+   31  python
+   32  ls
+   33  cd /etc
+   34  ls
+   35  cd pip
+   36  cd python3
+   37  ls
+   38  cd
+   39  ls
+   40  which python
+   41  /usr/local/bin/python2.7
+   42  cd /usr/bin
+   43  python3
+   44  ls
+   45  python3.5
+   46  python3
+   47  python3.5m
+   48  python -m site
+   49  cd /usr/local/lib/python2.7/site-packages/
+   50  ls
+   51  cd ../../python3.5/
+   52  ls
+   53  cd dist-packages/
+   54  ls
+   55  cd ..
+   56  ls
+   57  which pip
+   58  cd /usr/local/bin
+   59  ls
+   60  pip2.7 -U install spacy
+   61  pip2.7 install -U spacy
+   62  ls
+   63  python2
+   64  which python
+   65  where python
+   66  ls
+   67  cd
+   68  which python
+   69  python
+   70  python2.7
+   71  cd /usr/local/bin
+   72  ls
+   73  python2.7
+   74  python2
+   75  ls
+   76  which pyton2
+   77  which python2
+   78  cd /usr/bin
+   79  ls
+   80  python2
+   81  cd
+   82  which python2
+   83  which python
+   84  bk /usr/local/bin/python
+   85  ls
+   86  cd
+   87  git clone github.com/moselhy/dotfiles
+   88  git clone https://github.com/moselhy/dotfiles
+   89  ls
+   90  cd dotfiles/
+   91  ls
+   92  make
+   93  exit
+   94  ls
+   95  cd dotfiles/
+   96  ls
+   97  cd ..
+   98  ls
+   99  pico .bash_aliases 
+  100  pico .functions 
+  101  addrepo testing1
+  102  delrepo testing1
+  103  ls
+  104  ls
+  105  bk /usr/local/bin/python
+  106  cp /usr/bin/python2 /usr/local/bin
+  107  mv /usr/local/bin/python2 /usr/local/bin/python
+  108  python
+  109  python2
+  110  which python2
+  111  cp /usr/bin/python2 /usr/local/bin/python
+  112  python
+  113  which python
+  114  rm /usr/local/bin/python
+  115  python
+  116  cp /usr/bin/python2 /usr/local/bin/python
+  117  python
+  118  ls
+  119  ls -l /usr/bin/python2
+  120  which python2.7
+  121  python2.7
+  122  ls
+  123  python2
+  124  ln -s /usr/bin/python2 /usr/local/bin/python
+  125  rm /usr/local/bin/python
+  126  ln -s /usr/bin/python2 /usr/local/bin/python
+  127  python
+  128  python -m spacy download en
+  129  nlp = spacy.load('en')
+  130  python 
+  131  wget https://github.com/explosion/spacy/blob/master/examples/information_extraction/parse_subtrees.py
+  132  ls
+  133  pico parse_subtrees.py 
+  134  wget https://rawgithub.com/explosion/spacy/blob/master/examples/information_extraction/parse_subtrees.py
+  135  wget https://raw.githubusercontent.com/explosion/spacy/blob/master/examples/information_extraction/parse_subtrees.py
+  136  wget https://raw.githubusercontent.com/explosion/spaCy/master/examples/information_extraction/parse_subtrees.py
+  137  ls
+  138  rm parse_subtrees.py*
+  139  wget https://raw.githubusercontent.com/explosion/spaCy/master/examples/information_extraction/parse_subtrees.py
+  140  ls
+  141  python parse_subtrees.py 
+  142  ls
+  143  pico test.py
+  144  python test.py 
+  145  pip install nltk
+  146  python test.py 
+  147  python test.py 
+  148  pico test.py
+  149  python test.py 
+  150  python
+  151  python test.py 
+  152  pico test.py
+  153  python test.py 
+  154  history > installing_spacy.txt
